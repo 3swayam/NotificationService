@@ -1,0 +1,15 @@
+{
+  "name": "notification-generator",
+  "version": "1.0.0",
+  "description": "Find out notification group through cron expression and send notification generation request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cron-parser": "^2.16.3"
+  }
+}

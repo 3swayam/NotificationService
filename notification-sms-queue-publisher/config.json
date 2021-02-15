@@ -1,0 +1,5 @@
+{
+    "ERR_SOMETHING_WENT_WRONG": "Something wrong",
+    "SMS_QUEUE_PUBLISHER": "notification-sms-queue-publisher",
+    "SUCCESS_MESSAGE": "All working fine."
+}

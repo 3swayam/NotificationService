@@ -1,0 +1,105 @@
+{
+  "MEDIUM_APP": "APP",
+  "MEDIUM_SMS": "SMS",
+  "CATEGORYLIST": ["1", "2", "3", "4", "5", "6", "7", "8"],
+  "CATEGORY_1": {
+    "KEY": 1,
+    "NAME": "Chat Room"
+  },
+  "CATEGORY_2": {
+    "KEY": 2,
+    "NAME": "Daily Intake"
+  },
+  "CATEGORY_3": {
+    "KEY": 3,
+    "NAME": "Activity Entry"
+  },
+  "CATEGORY_4": {
+    "KEY": 4,
+    "NAME": "Weight Entry"
+  },
+  "CATEGORY_5": {
+    "KEY": 5,
+    "NAME": "Waist Entry"
+  },
+  "CATEGORY_6": {
+    "KEY": 6,
+    "NAME": "Hip Entry"
+  },
+  "CATEGORY_7": {
+    "KEY": 7,
+    "NAME": "HBA1C Entry"
+  },
+  "CATEGORY_8": {
+    "KEY": 8,
+    "NAME": "SMBG Entry"
+  },
+  "AGGREGATION_QUERY": {
+    "MEDIUM_TYPE": {
+      "terms": {
+        "field": "medium.keyword"
+      },
+      "aggs": {
+        "STATUS_TYPE": {
+          "terms": {
+            "field": "notificationStatus.keyword"
+          }
+        },
+        "DURATION_WISE": {
+          "date_histogram": {
+            "field": "notification_date",
+            "interval": "hour",
+            "time_zone": "+05:30"
+          }
+        },
+        "CATEGORY_TYPE": {
+          "terms": {
+            "field": "notificationCategory.keyword"
+          },
+          "aggs": {
+            "STATUS_TYPE": {
+              "terms": {
+                "field": "notificationStatus.keyword"
+              }
+            }
+          }
+        }
+      }
+    },
+    "STATUS_TYPE": {
+      "terms": {
+        "field": "notificationStatus.keyword"
+      }
+    },
+    "CATEGORY_TYPE": {
+      "terms": {
+        "field": "notificationCategory.keyword"
+      },
+      "aggs": {
+        "STATUS_TYPE": {
+          "terms": {
+            "field": "notificationStatus.keyword"
+          }
+        }
+      }
+    }
+  },
+  "UTC_TO_GMT_DIFFERENCE": 19800000,
+  "TIME_DIFFERENCE_DAY": 86400000,
+  "TIME_DIFFERENCE_WEEK": 604800000,
+  "DAY_DIFFERENCE_QUERY": {
+    "field": "notification_date",
+    "interval": "day",
+    "time_zone": "+05:30"
+  },
+  "WEEK_DIFFERENCE_QUERY": {
+    "field": "notification_date",
+    "interval": "week",
+    "time_zone": "+05:30"
+  },
+  "HOUR_DIFFERENCE_QUERY": {
+    "field": "notification_date",
+    "interval": "hour",
+    "time_zone": "+05:30"
+  }
+}

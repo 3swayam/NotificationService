@@ -1,0 +1,15 @@
+{
+    "MEDIUM_SMS_TRANSACTIONAL": {
+        "NAME": "SMS",
+        "QUEUE_URL": "https://sqs.ap-south-1.amazonaws.com/014137093647/notification-service-queue.fifo"
+    },
+    "MEDIUM_APP": {
+        "NAME": "APP",
+        "QUEUE_URL": "https://sqs.ap-south-1.amazonaws.com/014137093647/notification-app-queue.fifo"
+    },
+    "MEDIUM_SMS_PROMOTIONAL": {
+        "NAME": "SMS",
+        "QUEUE_URL": "https://sqs.ap-south-1.amazonaws.com/014137093647/notification-sms-promotiaonal-queue.fifo"
+    },
+    "SCHEDULE_TYPE_PROMOTIONAL": "Promotional"
+}

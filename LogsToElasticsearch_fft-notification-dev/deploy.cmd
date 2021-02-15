@@ -1,0 +1,2 @@
+winrar a -afzip LogsToElasticsearch_fft-notification-dev index.js node_modules
+aws lambda update-function-code --function-name LogsToElasticsearch_fft-notification-dev --zip-file fileb://LogsToElasticsearch_fft-notification-dev.zip

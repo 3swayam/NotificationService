@@ -1,0 +1,6 @@
+{
+    "TRANSACTIONAL_SMS_TYPE": "Transactional",
+    "PROMOTIONAL_SMS_TYPE": "Promotional",
+    "TRANSACTIONAL_SNS_QUEUE_URL": "arn:aws:sqs:ap-south-1:014137093647:notification-service-queue.fifo",
+    "PROMOTIONAL_SNS_QUEUE_URL": "arn:aws:sqs:ap-south-1:014137093647:notification-sms-promotiaonal-queue.fifo"
+}

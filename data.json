@@ -1,0 +1,652 @@
+[
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 1",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "1"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 2",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "2"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 3",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "3"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 4",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "4"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 5",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "5"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 6",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "6"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 7",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "7"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 8",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "8"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 9",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 10",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "10"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 11",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "11"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 12",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "12"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 13",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "13"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 14",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "14"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 15",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "15"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 16",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "16"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 17",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "17"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 18",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "18"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 19",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "19"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 20",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "20"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 21",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "21"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 22",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "22"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 23",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "23"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 24",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "24"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 25",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPnh"
+        },
+        "userId": "25"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 1",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "901"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 2",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "902"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 3",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "903"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 4",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "904"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 5",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "905"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 6",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "906"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 7",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "907"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 8",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "908"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 9",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "909"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 10",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9010"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 11",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9011"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 12",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9012"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 13",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9013"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 14",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9014"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 15",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9015"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 16",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9016"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 17",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9017"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 18",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9018"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 19",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9019"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 20",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9020"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 21",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9021"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 22",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9022"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 23",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9023"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 24",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPn"
+        },
+        "userId": "9024"
+    },
+    {
+        "medium": "APP",
+        "title": "Birthday Wishes",
+        "messageContent": "Happy birthday Gunavant 25",
+        "notificationCategory": "birthDay Wish",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "deviceKey": "d83CR0fsQxE:APA91bFRhwAQICdrLRIbV5hjS4MRvTdVj4y894Ovwgxm6u9T0LVr9HJfXC9Sqgnf8BqA4JoVCLIwGuX8v3pd51-VQoNLIxLh4xTuf_xJPB4VkE7C8ORGoYfyugXQnvYdUIYPmAEfJPnh"
+        },
+        "userId": "9025"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "medium": "SMS",
+        "messageContent": "ver working !!",
+        "notificationCategory": "interaction1",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "mobileNo": "+919437356481"
+        },
+        "userId": "12"
+    },
+    {
+        "medium": "SMS",
+        "messageContent": "Woohoo version 8 is working !!",
+        "notificationCategory": "interaction1",
+        "scheduleType": "immediate",
+        "templateFamily": "template family",
+        "templateId": 1,
+        "userData": {
+            "mobileNo": "+919974045153"
+        },
+        "userId": "123"
+    }
+]

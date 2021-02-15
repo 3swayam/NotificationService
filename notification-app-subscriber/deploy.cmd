@@ -1,0 +1,2 @@
+winrar a -afzip notification-app-subscriber config.json dynamo-service.js index.js node_modules
+aws lambda update-function-code --function-name notification-app-subscriber --zip-file fileb://notification-app-subscriber.zip

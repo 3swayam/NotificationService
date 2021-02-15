@@ -1,0 +1,6 @@
+{
+    "NOTIFICATION_TABLE_NAME": "notification_service",
+    "NOTIFICATNID_TIMESTAMP_INDEX": "notificationId-timestamp-index",
+    "MEDIUM_APP": "APP",
+    "MEDIUM_SMS": "SMS"
+}

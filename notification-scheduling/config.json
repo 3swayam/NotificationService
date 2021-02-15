@@ -1,0 +1,9 @@
+{
+    "MEDIUM_SMS": {
+        "NAME": "SMS"
+    },
+    "MEDIUM_APP": {
+        "NAME": "APP"
+    },
+    "INSERT_EVENT": "INSERT"
+}

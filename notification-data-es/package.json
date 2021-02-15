@@ -1,0 +1,16 @@
+{
+  "name": "notification-data-es",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fitterfly",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.9.1",
+    "aws-sdk": "^2.784.0",
+    "elasticsearch": "^16.7.1"
+  }
+}
